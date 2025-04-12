@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "77b8",
+      "cityName": "Muzaffargarh",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2025-01-24T10:23:31.274Z",
+      "notes": "",
+      "position": {
+        "lat": "30.075036166043734",
+        "lng": "71.22436523437501"
+      }
+    },
+    {
+      "id": "ee0d",
+      "cityName": "Multan",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2025-01-24T11:23:40.056Z",
+      "notes": "khgkj",
+      "position": {
+        "lat": "30.216547417583815",
+        "lng": "71.54022216796876"
+      }
+    },
+    {
+      "id": "4b80",
+      "cityName": "Khanewal",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2025-01-29T11:34:33.983Z",
+      "notes": "jkbjhjh",
+      "position": {
+        "lat": "30.29596877636379",
+        "lng": "71.95495605468751"
+      }
+    }
+  ]
+}
